@@ -1,4 +1,4 @@
-# Power System Modelling of the Ambon Island situated in Indonesia
+# Power System Modelling of the Ambon Island, Indonesia
 
 Based on the following Aspects
 1. Reduced CO2 Emissions
