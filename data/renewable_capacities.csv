@@ -1,0 +1,16 @@
+﻿Powerplants,Type,Capacity_max(MW),Capacity_need(MW)
+Proto_1,Rooftop PV,70.281,8.121
+Proto_1a,Rooftop PV,73.678,12.771
+Proto_2i,Rooftop PV,79.604,20.697
+Proto_2ii,Rooftop PV,80.241,23.181
+Proto_3,Rooftop PV,31.807,22.972
+Proto_4i,Rooftop PV,135.511,39.148
+Proto_4ii,Rooftop PV,119.199,48.209
+Proto_5,Rooftop PV,61.963,25.061
+Proto_5a,Rooftop PV,14.92,14.92
+Proto_6,Rooftop PV,25.902,15.036
+Proto_7,Rooftop PV,24.407,17.83
+Proto_8,Rooftop PV,4.241,4.241
+Proto_9,Rooftop PV,6.687,6.687
+Proto_10,Utility PV,4.169,1.902
+Proto_11,Floating PV,18.27,18.27
