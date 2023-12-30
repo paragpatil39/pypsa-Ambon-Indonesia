@@ -1,0 +1,4 @@
+generator,p_nom,p_da,bus,p_nom_extendable,marginal_cost,lifetime,efficiency,start_up_cost,shut_down_cost,min_up_time,min_down_time,ramp_limit_up,ramp_limit_down,ramp_limit_start_up,ramp_limit_shut_down
+gen_no,31,31,no_de,FALSE,10,,,,,4,3,0.54,0.75,,
+gen_ost,19,19,ost_de,FALSE,20,,,,,2,2,0.75,0.75,,
+gen_west,30,10,west_de,FALSE,50,,,,,4,3,0.54,0.75,,
