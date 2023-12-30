@@ -1,0 +1,6 @@
+generator,p_nom,p_da,bus,p_nom_extendable,marginal_cost,lifetime,efficiency,start_up_cost,shut_down_cost,min_up_time,min_down_time,ramp_limit_up,ramp_limit_down,ramp_limit_start_up,ramp_limit_shut_down
+Amb1_geo,600,15,Ambon_1,FALSE,50,,0.01,,,,,,,,
+Amb1_gas,8000,16,Ambon_1,FALSE,50,,0.2,,,,,,,,
+Amb2_oil,2000,10,Ambon_2,FALSE,55,,0.26,,,,,,,,
+Amb2_gas,2000,9,Ambon_2,FALSE,50,,0.4,,,,,,,,
+Amb2_coal,500,10,Ambon_2,FALSE,30,,0.34,,,,,,,,
